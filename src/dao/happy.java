@@ -2,5 +2,5 @@ package dao;
 
 
 public class happy {
-    public  void print(){}
+    public  void print(int x){}
 }
